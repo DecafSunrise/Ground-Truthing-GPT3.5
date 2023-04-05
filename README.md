@@ -1,5 +1,5 @@
 # Ground Truthing GPT3
-Repository to hold the code for the UMICH SIADS Master of Applied Data Science Capstone project, with a focus on fact checking OpenAI's GPT-3.
+Repository to hold the code for our UMICH SIADS Master of Applied Data Science Capstone project, with a focus on fact checking OpenAI's GPT-3.
 
 ## Setup
 ```pip install -r requirements.txt``` 
@@ -11,4 +11,4 @@ Will install:
 - **OpenAI** (GPT-3 interface, among other things)
 
 ## Data
-- Check the `Set_Subset_Responses_60%_done.csv` for the interim results; more to follow as we continue to hit the OpenAI API
+- Check the `set_subset_responses_complete.csv` for the "set subset" results; more to follow as we continue to hit the OpenAI API
