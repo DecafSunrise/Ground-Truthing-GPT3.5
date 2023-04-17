@@ -1,0 +1,34 @@
+,classLabel.value,error_category,classLabel.xml:lang,percent
+0,album,conflation,193,0.8354978354978355
+1,album,denial,5,0.021645021645021644
+2,album,phrase,7,0.030303030303030304
+3,album,specification,26,0.11255411255411256
+4,business,conflation,11,0.2558139534883721
+5,business,specification,32,0.7441860465116279
+6,film,conflation,120,0.7792207792207793
+7,film,denial,3,0.01948051948051948
+8,film,phrase,4,0.025974025974025976
+9,film,specification,27,0.17532467532467533
+10,human,conflation,121,0.3032581453634085
+11,human,denial,4,0.010025062656641603
+12,human,phrase,3,0.007518796992481203
+13,human,specification,271,0.6791979949874687
+14,literary work,conflation,29,0.48333333333333334
+15,literary work,specification,31,0.5166666666666667
+16,mountain,conflation,16,0.5161290322580645
+17,mountain,denial,3,0.0967741935483871
+18,mountain,specification,12,0.3870967741935484
+19,musical group,conflation,41,0.5694444444444444
+20,musical group,denial,10,0.1388888888888889
+21,musical group,phrase,1,0.013888888888888888
+22,musical group,specification,20,0.2777777777777778
+23,river,conflation,62,0.8857142857142857
+24,river,denial,1,0.014285714285714285
+25,river,specification,7,0.1
+26,television series,conflation,24,0.6
+27,television series,denial,4,0.1
+28,television series,phrase,1,0.025
+29,television series,specification,11,0.275
+30,village,conflation,51,0.2914285714285714
+31,village,denial,20,0.11428571428571428
+32,village,specification,104,0.5942857142857143
