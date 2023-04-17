@@ -1,4 +1,4 @@
-# Ground Truthing GPT3
+# Ground Truthing GPT3.5
 Repository to hold the code for our UMICH SIADS Master of Applied Data Science Capstone project, with a focus on fact checking OpenAI's GPT-3.
 
 ## Setup
