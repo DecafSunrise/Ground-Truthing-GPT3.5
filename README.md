@@ -1,7 +1,7 @@
 # Ground Truthing GPT3.5
 Repository to hold the code for our UMICH SIADS Master of Applied Data Science Capstone project, with a focus on fact checking OpenAI's GPT-3.
 
-![image](https://user-images.githubusercontent.com/36832027/232674507-5b31453d-37f7-4da8-8cab-28ff7604ba6c.png)
+![team_ambitious_project_poster pptx (1)](https://user-images.githubusercontent.com/36832027/232674649-8dc6891a-115c-48ba-a4af-a7bd10805f23.png)
 
 ## Setup
 ```pip install -r requirements.txt``` 
