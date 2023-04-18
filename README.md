@@ -21,5 +21,8 @@ Will install:
 ## Running the code
 Open the Notebooks folder, and step through the numbered notebooks. The notebooks are numbered because certain stages build upon data retrieved in earlier stages, with exploratory data analysis (EDA) separated from long-running data gathering code.
 
-## Data
-- Check the `set_subset_responses_complete.csv` for the "set subset" results; more to follow as we continue to hit the OpenAI API
+## Data Access Statement
+- Taxonomic Wikidata data was used in the creation of the prompts for this project. The data is available under CC-0 license, as per the [Wikidata Data Access Policy](https://www.wikidata.org/wiki/Wikidata:Data_access#Using_Wikidata's_data).
+- OpenAI GPT 3.5 was used in the creation of the responses. The use thereof is in accordance with the [OpenAI Sharing & Publication Policy](https://openai.com/policies/sharing-publication-policy). 
+
+![image](https://user-images.githubusercontent.com/36832027/232679159-5691ea87-8e82-4b4e-8e3a-bf85ea9458c1.png)
