@@ -11,7 +11,7 @@ Repository to hold the code for our UMICH SIADS Master of Applied Data Science C
 Will install:
 - **Pandas** (Operate on tabular data)
 - **TQDM** (prints progress bars)
-- **Wikidata** (structured queries to Wikidata; punches under it's weight, we're also firing off SparQL queries with the Python `Requests` built-in package)
+- **Wikidata** (structured queries to Wikidata; we're also firing off SparQL queries with the Python `Requests` built-in package)
 - **OpenAI** (GPT-3 interface, among other things)
 - **Seaborn** (Visualization Package)
 - **Plotly** (Visualization Package)
